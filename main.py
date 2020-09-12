@@ -1,8 +1,10 @@
 #!/usr/bin/py/python3
 
 def main(msg):
-    // Adding different comment
-    // Print a message
+    // No longer comments here
     print(msg)
+    
+def secondary():
+    print("New function")
 
 main("Hello people")
